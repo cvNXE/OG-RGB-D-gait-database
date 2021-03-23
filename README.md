@@ -1,2 +1,2 @@
-# NPU-RGB-D-gait-database
-NPU RGB+D gait database is coming soon!
+# OG-RGB+D-gait-database
+OG RGB+D gait database is coming soon!
